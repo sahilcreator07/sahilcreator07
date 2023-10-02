@@ -5,7 +5,7 @@
 
 - 🔭 Flutter App **Narrative**
 
-- 🌱 I’m currently learning **Node js , MongoDb & ML**
+- 🌱 I’m currently learning **MongoDb & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sahilcreator07?tab=repositories](https://github.com/sahilcreator07?tab=repositories)
 
