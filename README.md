@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilcreator07&label=Profile%20views&color=0e75b6&style=flat" alt="sahilcreator07" /> </p>
 
-- 🔭 Flutter App and Web Developer , Data Analyst.
+- 🔭 Data Analyst , Flutter App and Web Developer.
 
 - Learning and Discovering new Machine Learning Techniques and Technologies.
 
