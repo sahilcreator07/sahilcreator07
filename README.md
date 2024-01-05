@@ -5,7 +5,7 @@
 
 - 🔭 Flutter App and Web Developer , Data Analyst.
 
-- Learning and Descovering new Machine Learning Techniques and Technologies.
+- Learning and Discovering new Machine Learning Techniques and Technologies.
 
 - Python Packages: numpy, Pandas, Scipy, seaborn, Matplotlib, statsmodels, scikit-learn
 
