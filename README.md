@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sahil Gupta , I Like Developing Things</h1>
+<h1 align="center">Hi 👋, I'm Sahil Gupta</h1>
 <h3 align="center">A passionate developer with creative ideas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilcreator07&label=Profile%20views&color=0e75b6&style=flat" alt="sahilcreator07" /> </p>
 
-- 🔭 Flutter App and Web Developer.
+- 🔭 Flutter App and Web Developer , Data Analyst.
 
-- 🌱 I’m currently learning **MongoDb & Machine Learning**
+- Learning and Descovering new Machine Learning Techniques and Technologies.
 
-- 👨‍💻 All of my projects are available at [https://github.com/sahilcreator07?tab=repositories](https://github.com/sahilcreator07?tab=repositories)
+- Python Packages: numpy, Pandas, Scipy, seaborn, Matplotlib, statsmodels, scikit-learn
+
+  Machine Learning Models: regression (linear, logistic), Naive Bayes, decision trees, random forest, AdaBoost, XGBoost
 
 - 📫 How to reach me **sahilgupta8x@gmail.com**
 
