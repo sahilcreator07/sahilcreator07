@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilcreator07&label=Profile%20views&color=0e75b6&style=flat" alt="sahilcreator07" /> </p>
 
-- 🔭 Data Analyst , Flutter App and Web Developer.
+- 🔭 AI/ML Engineer,  Data Analyst , Devops
 
 - Learning and Discovering new Machine Learning Techniques and Technologies.
-
-- Python Packages: numpy, Pandas, Scipy, seaborn, Matplotlib, statsmodels, scikit-learn
-
-  Machine Learning Models: regression (linear, logistic), Naive Bayes, decision trees, random forest, AdaBoost, XGBoost
 
 - 📫 How to reach me **sahilgupta8x@gmail.com**
 
