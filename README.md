@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Gupta</h1>
-<h3 align="center">A passionate developer with creative ideas.</h3>
+<h3 align="center">A driven AI/ML Engineer with a deep interest in Diffusion Models, Multi-Agent AI systems, and Large Language Models (LLMs).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilcreator07&label=Profile%20views&color=0e75b6&style=flat" alt="sahilcreator07" /> </p>
 
@@ -7,7 +7,7 @@
 
 - Learning and Discovering new Machine Learning Techniques and Technologies.
 
-- 📫 How to reach me **sahilgupta8x@gmail.com**
+- 📫 How to reach me **sahilgupta08x@gmail.com**
 
 - ⚡ Fun fact **I can make people laugh :)**
 
